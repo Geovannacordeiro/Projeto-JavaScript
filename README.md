@@ -1,2 +1,2 @@
-# Projeto-JavaScript
+# Projetos-JavaScript
 Projetos feito em aula usando JavaScript 
