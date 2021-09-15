@@ -1,0 +1,49 @@
+{
+    "0": {
+        "titulo": "vereador",
+        "numeros": 5,
+        "candidatos": {
+            "51222": {
+                "nome": "Christianne ",
+                "partido": "xxxx",
+                "img": "político mulher.jpg"
+            },
+            "55555": {
+                "nome": "Marcela",
+                "partido": "xxxxx",
+                "img": "politica mulher 2.jpg"
+            },
+            "43333": {
+                "nome": "Gabriela",
+                "partido": "xxxx",
+                "img": "político-fêmea.jpg"
+            }
+        }
+    },
+    "1": {
+        "titulo": "prefeito",
+        "numeros": 2,
+        "candidatos": {
+            "12": {
+                "nome": "O Prefeito de Townsville",
+                "partido": "XXXX",
+                "img": "images prefeito 2.png",
+                "vice": {
+                    "nome": "XXXXX",
+                    "partido": "PRP",
+                    "img": "cv3.jpg"
+                }
+            },
+            "15": {
+                "nome": "Diamond Joe Quimby",
+                "partido": "XXXX",
+                "img": "autoridades2.jpg",
+                "vice": {
+                    "nome": "xxx",
+                    "partido": "xxx",
+                    "img": "xxxx"
+                }
+            }
+        }
+    }
+}
